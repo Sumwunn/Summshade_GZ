@@ -20,5 +20,5 @@ Requirements
 - Moderately demanding; GTX 1060 or RX 580 @ 1080p 60 will probably cut it.
 - If lagging, try swapping CMAA2 for FXAA or SMAA. Can also disable Cathode (v5 swaps this for a performance friendly CRT shader).
 
-Effect List
+Effect List (v4)
 - ![Effect List (most)](Images/EffectList.jpg?raw=true "Title")
