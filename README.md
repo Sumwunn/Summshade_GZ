@@ -12,7 +12,7 @@ The goal was to provide a satisfying modern visual upgrade for Classic DOOM with
 Install:
 - Copy ReShade.ini and Summshade-vX.ini to the engine folder.
 - Use the latest ReShade setup to select Summshade-vX.ini and download the required effects.
-- (v2 and higher) Copy [Glamayre_Fast_Effects.fx](https://github.com/rj200/Glamarye_Fast_Effects_for_ReShade/blob/main/Shaders/Glamayre_Fast_Effects.fx) to "reshade-shaders\Shaders" inside the engine folder.
+- (v2 and higher) Download (as raw file) and copy [Glamayre_Fast_Effects.fx](https://github.com/rj200/Glamarye_Fast_Effects_for_ReShade/blob/main/Shaders/Glamayre_Fast_Effects.fx) to "reshade-shaders\Shaders" inside the engine folder.
 - Play.
 - Home brings up ReShade overlay, and Insert toggles effects.
 
