@@ -1,8 +1,9 @@
 # Summshade_GZ (GZDoom/Zandronum/Others)
-Most versions are similar, with tweaks to make them more performance friendly or less jarring on some maps.
 The goal was to provide a satisfying modern visual upgrade for Classic DOOM without deviating too much from its original look.
 
 - No depth effects are used due to how GZDoom/Zandronum renders the sprites and the world.
+- Most versions are similar, with tweaks to make them more performance friendly or less jarring on some maps.
+
 - v1-v3 were minor revisions or exclusion of one or two effects to make the preset less jarring on skies.
 - v4 is tweaks and include Adaptive Tonemapper. My 2nd favourite.
 - v5 is my favourite since it's the most performance friendly and doesn't blow out whites too much and isn't too dark. It also includes a tweaked CRT Shader. Sadly, though, it doesn't work on OpenGL (vort_hdr compile error).
