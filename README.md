@@ -27,3 +27,10 @@ Effect List (v5)
 Comparison (v5; Off -> On)
 - ![v5 Off](Images/v5_Off.jpg?raw=true "")
 - ![v5 On](Images/v5_On.jpg?raw=true "")
+
+Effect List (v6)
+- ![Effect List](Images/EffectList_v6.jpg?raw=true "")
+
+Comparison (v6; Off -> On)
+- ![v6 Off](Images/v6_Off.jpg?raw=true "")
+- ![v6 On](Images/v6_On.jpg?raw=true "")
