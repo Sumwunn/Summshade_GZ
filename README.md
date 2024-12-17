@@ -18,10 +18,11 @@ Install:
 - Home brings up ReShade overlay, and Insert toggles effects.
 
 Requirements/Notes
-- "Doom" or "Classic (Faster)" sector light modes are my preferred ones for this.
+- "Doom", Bright", or "Classic (Faster)" sector light modes are my preferred ones for this (depends on the map, honestly).
 - Moderately demanding; GTX 1060 or RX 580 @ 1080p 60 will probably cut it.
-- If lagging, try swapping CMAA2 for FXAA or SMAA. Can also disable Cathode (v5 swaps this for a performance friendly CRT shader).
+- If lagging, try swapping CMAA2 for FXAA or SMAA. Can also disable Cathode (v5 swaps this for a performance friendly CRT shader). CMAA2 is least destructive for pixel art, I've found.
 - As of 12/17/24, CMAA2 shader doesn't function and needs this [fix](https://github.com/LordOfLunacy/Insane-Shaders/issues/13#issuecomment-2484781195) applied.
+- FX Flashlight shader may need to be manually checked upon ReShade setup.
 - Looks good with Daggerfall Unity, as well.
 
 Effect List (v5)
