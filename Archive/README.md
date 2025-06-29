@@ -1,6 +1,6 @@
 # Summshade_GZ (GZDoom/Zandronum/Others)
 
-- Older versions
+## Older versions
 
 - v1-v3 were minor revisions to make the preset less jarring on skies.
 - v4 is tweaks and includes Adaptive Tonemapper. My 2nd favourite.
