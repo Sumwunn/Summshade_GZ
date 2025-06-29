@@ -22,16 +22,19 @@ Requirements/Notes
 - If lagging, try swapping CMAA2 for LXAA. Alternatively, v7x_Lite includes a minimal set of effects.
 - Looks good with Daggerfall Unity, as well (v5c, at least).
 
-Effect List (v5)
+Effect List (**v5**)
 - ![Effect List](Images/EffectList_v5.jpg?raw=true "")
 
-Comparison (v5; Off -> On)
+Comparison (**v5**; Off -> On)
 - ![v5 Off](Images/v5_Off.jpg?raw=true "")
 - ![v5 On](Images/v5_On.jpg?raw=true "")
 
-Effect List (v7x_Lite)
+Effect List (**v7x**)
+- ![Effect List](Images/EffectList_v7x.png?raw=true "")
+
+Effect List (**v7x-Lite**)
 - ![Effect List](Images/EffectList_v7x-Lite.png?raw=true "")
 
-Comparison (v7x-Lite; Off -> On)
+Comparison (**v7x-Lite**; Off -> On)
 - ![v7x-Lite Off](Images/v7x-Lite_Off.png?raw=true "")
 - ![v7x-Lite On](Images/v7x-Lite_On.png?raw=true "")
