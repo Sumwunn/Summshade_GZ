@@ -3,12 +3,12 @@ The goal is/was to provide a satisfying modern visual upgrade for Classic DOOM w
 
 - No depth effects are used by default since GZDoom/Zandronum render sprites outside of the depth buffer, causing effect clipping.
 - Most versions are similar, with tweaks to make them more performance friendly or less jarring on some maps.
+---
+**Older versions moved to archive folder.**
 
-- Older versions moved to archive folder.
-
-- v5c: Effects tweaked and toned down a bit.
-- v7x: Revised effects and order. A bit gritty. Lite includes just LUT + LXAA + GI, while full includes additional effects (see Effect List).
-
+- **v5c**: Effects tweaked and toned down a bit.
+- **v7x**: Revised effects and order. A bit gritty. Lite includes just LUT + LXAA + GI, while full includes additional effects (see Effect List).
+---
 Install:
 - Copy ReShade.ini and Summshade-vX.ini to the engine's folder.
 - Use the latest ReShade setup to select Summshade-vX.ini and download the required effects.
