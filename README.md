@@ -13,7 +13,7 @@ Install:
 - Copy ReShade.ini and Summshade-vX.ini to the engine's folder.
 - Use the latest ReShade setup to select Summshade-vX.ini and download the required effects.
 - (v2 and higher) Download [Glamayre_Fast_Effects.fx](https://github.com/rj200/Glamarye_Fast_Effects_for_ReShade/blob/main/Shaders/Glamayre_Fast_Effects.fx) (as raw file) and copy to "reshade-shaders\Shaders", inside the engine folder.
-- (v7x-Lite) Download [LXAA.fx](https://github.com/grebord/LXAA-Antialiasing-Shader) (as raw file) and copy to "reshade-shaders\Shaders", inside the engine folder.
+- (v7x-Lite) Download [LXAA.fx](https://github.com/grebord/LXAA-Antialiasing-Shader/blob/main/LXAA.fx) (as raw file) and copy to "reshade-shaders\Shaders", inside the engine folder.
 - Play.
 - 'Home' brings up ReShade overlay, and 'Insert' toggles effects.
 
