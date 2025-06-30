@@ -18,8 +18,10 @@ Install:
 - 'Home' brings up ReShade overlay, and 'Insert' toggles effects.
 
 Requirements/Notes
+- With v7x, Monocular_Cues & Deband are disabled by default.
 - Moderately demanding; GTX 1060 or RX 580 @ 1080p 60 should cut it.
 - If lagging, try swapping CMAA2 for LXAA. Alternatively, v7x_Lite includes a minimal set of effects.
+- LXAA can smear pixels a bit (a tuned FXAA might be better); use CMAA2 if you can.
 - Looks good with Daggerfall Unity, as well (v5c, at least).
 
 Effect List (**v5**)
